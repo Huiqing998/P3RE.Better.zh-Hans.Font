@@ -22,7 +22,7 @@
 UnrealEssentials\P3R\Content\Xrd777\Font\DFGBJH8.ufont
 ```
 
-字体配置路径，不同的语言目录页不一样，例如简体中文的是 `zh-Hans`文件夹。
+字体配置路径，不同的语言目录也不一样，例如简体中文的是 `zh-Hans`文件夹。
 
 ```
 UnrealEssentials\P3R\Content\L10N\zh-Hans\Xrd777\Font\FSA_FontStyle.uasset

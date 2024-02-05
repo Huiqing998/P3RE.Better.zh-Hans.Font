@@ -1,0 +1,28 @@
+{
+  "ModId": "P3RE.Better.zh-Hans.Font",
+  "ModName": "\u66F4\u597D\u7684\u7B80\u4F53\u4E2D\u6587\u5B57\u4F53",
+  "ModAuthor": "HuiQing",
+  "ModVersion": "1.0.0",
+  "ModDescription": "\u66FF\u6362\u6E38\u620F\u4E2D\u7684\u5B57\u4F53\u3002",
+  "ModDll": "",
+  "ModIcon": "",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "P3RE.Better.zh-Hans.Font.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "p3rpc.essentials"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "p3r.exe"
+  ],
+  "ProjectUrl": ""
+}
